@@ -1,5 +1,3 @@
-# exam-seating
-A platform that generate the exam seating arrangement using uploaded excel or csv file
 # Automated Exam Seating Arrangement Generator
 
 Upload a student list → enter exam details → configure rooms → preview → download a
